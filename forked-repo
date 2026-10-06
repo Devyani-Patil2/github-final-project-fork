@@ -1,1 +1,8 @@
-This repository was forked from https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+curl https://api.github.com/repos/Devyani-Patil2/github-final-project-fork
+
+{
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
